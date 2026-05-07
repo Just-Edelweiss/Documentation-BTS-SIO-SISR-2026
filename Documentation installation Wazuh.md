@@ -18,7 +18,7 @@
 
 Exécuter la commande AIO (All In On) pour installer le manager d'agent et la console web serveur de gestion en même temps.
 
-![Commande install AIO](Pasted-image-20260420113119.png)
+![Commande install AIO](assets/Pasted-image-20260420113119.png)
 
 Attendre la fin de l'installation puis désactiver les mises à jour automatique.
 
