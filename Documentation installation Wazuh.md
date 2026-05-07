@@ -22,28 +22,28 @@ Exécuter la commande AIO (All In On) pour installer le manager d'agent et la co
 
 Attendre la fin de l'installation puis désactiver les mises à jour automatique.
 
-![[Pasted image 20260421102103.png]]
+![Istallation](assets/Pasted-image-20260421102103.png)
 
 
 Récupérer ensuite l'identifiant et le mot de passe administrateur pour se connecter à la console de gestion.
 
-![[Pasted image 20260421102137.png]]
+![Identifiant consol](assets/Pasted-image-20260421102137.png)
 
-![[Pasted image 20260420114714.png]]
+![consol](assets/Pasted-image-20260420114714.png)
 
 # 20 Installation des Agents
 
 Ouvrez la page de gestion des déploiements d'agent puis configurer en fonction du matériel
 
-![[Pasted image 20260421102444.png]]
+![Page configuration Agent](assets/Pasted-image-20260421102444.png)
 
 Ne pas oublier de donner l'adresse IP du serveur de management
 
-![[Pasted image 20260421114132.png]]
+![Option serveur agent](assets/Pasted-image-20260421114132.png)
 
 Il suffit pour finir de copier l'unique commande sur le système client pour installer l'agent.
 
-![[Pasted image 20260507123451.png]]
+![Copy AIO agent](assets/Pasted-image-20260507123451.png)
 
-![[Pasted image 20260507123744.png]]
+![Installation agent](assets/Pasted-image-20260507123744.png)
 
