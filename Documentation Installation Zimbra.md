@@ -29,6 +29,7 @@ Il suffit ensuite, de remplir :
 -  **Name** : mail
 -  **IP Address** : 172.20.130.90 
 -  Cocher **Create associated pointer (PTR) record**
+
 ![interface DNS](assets/Pasted-image-20260517105426.png)
 
 
